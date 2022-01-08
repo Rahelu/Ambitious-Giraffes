@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2544b638796642ebf2bbebdda8423674b1ad52ae",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0xb193b7d3d4b3adcc8ea7d1713c27af162f0a083da3b61b1f67b04c0a2e8983c6",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "Ether",
+    "ID": 4
+  },
+  "NFT_NAME": "Ambitious Giraffes",
+  "SYMBOL": "AGNFT",
+  "MAX_SUPPLY": 460,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ambitious-giraffes-v2",
+  "SHOW_BACKGROUND": true
+}
